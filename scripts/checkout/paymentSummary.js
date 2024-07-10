@@ -65,6 +65,6 @@ shippingPriceCents += deliveryOption.priceCents;
     </button>
  `;
 
- document.querySelector ('.js-payement-summary')
+ document.querySelector ('.js-payment-summary')
    .innerHTML = paymentSummaryHTML
 }
